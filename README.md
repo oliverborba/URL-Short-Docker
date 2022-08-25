@@ -14,7 +14,7 @@ Os encurtadores de URL são recursos práticos quando desejamos compartilhar um 
 
 #######################################################################################
 
-Rotas
+Rotas:
 GET/
 GET/api-docs
 GET/short/{id}
