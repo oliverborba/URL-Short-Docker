@@ -12,7 +12,8 @@ Os encurtadores de URL são recursos práticos quando desejamos compartilhar um 
 - um método que retorna todas as URLs encurtadas em uma data específica.
 - um método que retorna uma url encurtada conforme o encurtamento da URL.
 
-#######################################################################################################################################################################
+#######################################################################################
+
 Rotas
 GET/
 GET/api-docs
